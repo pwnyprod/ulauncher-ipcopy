@@ -7,4 +7,4 @@ Fast access to internal and external IP
 
 # Example
 
-![](https://i.imgur.com/EzJ43ue.mp4)
+![](https://i.imgur.com/yiyNv4f.gif)
