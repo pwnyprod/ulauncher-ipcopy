@@ -7,4 +7,4 @@ Fast access to internal and external IP
 
 # Example
 
-![Demo Image](https://prod-ulauncher-ext-images.s3.amazonaws.com/github|17324780/2020-01-19T13:18:57.334367.png)
+![Demo Image](https://imgur.com/a/7gs2pWd)
